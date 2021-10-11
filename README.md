@@ -40,8 +40,10 @@
 
 ### The analysis of the school district's data after inputing "NaN" for Thomas High School 9th grade shows that:
 - The district summary varied by slightly decreasing the percentage of the "Average Math Score"(.01), "% Passing Math"(.02%), "% Passing Reading"(.03%), and "% Overall Passing"(.01%).
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary.PNG)
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary_1st_analysis.PNG)
+    - Initial Analysis
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary_1st_analysis.PNG)
+    - Refactored Analysis
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary.PNG)
 
 - The school summary was only affected for Thomas High School, based on replacing the 9th grade scores. Replacing Thomas High School 9th grade scores brings the school's scores closer to the district averages. 
 - Specific changes are as follows with pre-analysis and refactored, respectfully.
