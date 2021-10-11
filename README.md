@@ -39,8 +39,10 @@
 - Bottom 5 Schools: 
     ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/low_performing_schools.PNG)
 - Math scores by grade and school: 
+    
     ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/math_scores_by_grade_%26_school.PNG)
 - Reading scores by grade and school: 
+    
     ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_%26_school.PNG)
 - Scores based by school size: 
     ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_school_size.PNG)
