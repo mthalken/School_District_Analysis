@@ -39,7 +39,7 @@
 
 
 ### The analysis of the school district's data after inputing "NaN" for Thomas High School 9th grade shows that:
-- The district summary varied by slightly decreasing the percentage of the "Average Math Score"(.01), "% Passing Math"(.02%), "% Passing Reading"(.03%), and "% Overall Passing"(.01%).
+- The district summary varied by slightly decreasing the percentage of the "Average Math Score"(.01).
     - Initial Analysis
     ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary_1st_analysis.PNG)
     - Refactored Analysis
@@ -53,7 +53,7 @@
     - Scores by school type: no change
 
 ## Summary
-In summary after changing Thomas High School's 9th grade scores to NaN it brought the scores closer to the district averages. There was change in the "Average Math Score"(.01), "% Passing Math"(.02%), "% Passing Reading"(.03%), and "% Overall Passing"(.01%).
+In summary after changing Thomas High School's 9th grade scores to NaN it brought the scores closer to the district averages. There was change in only the "Average Math Score"(.01).
 
 Overall, the following can be considered:
 - Charter schools have an overall passing percentage of 90% compared to distict schools at 54%, with specific scores for math at 94% and 67% and reading scores at 97% and 81% respectively. 
