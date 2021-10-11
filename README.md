@@ -31,25 +31,23 @@
     - Scores by school size: no change
     - Scores by school type: no change
 
-### The analysis of the school district's data shows that:
+### The analysis of the school district's data:
 - District Summary: 
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary.PNG)
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary.PNG)
 - Top 5 Schools: 
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/high_performing_schools.PNG)
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/high_performing_schools.PNG)
 - Bottom 5 Schools: 
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/low_performing_schools.PNG)
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/low_performing_schools.PNG)
 - Math scores by grade and school: 
-
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/math_scores_by_grade_%26_school.PNG)
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/math_scores_by_grade_%26_school.PNG)
 - Reading scores by grade and school: 
-
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_%26_school.PNG)
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_%26_school.PNG)
 - Scores based by school size: 
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_school_size.PNG)
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_school_size.PNG)
 - Scores based by school type: 
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_school_type.PNG)
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_school_type.PNG)
 - Scores based by average spending per student: 
-![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_spending.PNG)
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_spending.PNG)
 
 ## Summary
 In summary after changing Thomas High School's 9th grade scores to NaN it brought the scores closer to the district averages. There was change in only the "Average Math Score"(.01).
