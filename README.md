@@ -17,6 +17,20 @@
 - You can also see the peliminary code [here](https://github.com/mthalken/School_District_Analysis/blob/main/PyCitySchools.ipynb).
 
 ## Results 
+### The analysis of the school district's data after inputing "NaN" for Thomas High School 9th grade shows that:
+- The district summary varied by slightly decreasing the percentage of the "Average Math Score"(.01).
+    - Initial Analysis
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary_1st_analysis.PNG)
+    - Refactored Analysis
+    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary.PNG)
+
+- The school summary was only affected for Thomas High School, based on replacing the 9th grade scores. Replacing Thomas High School 9th grade scores brings the school's scores closer to the district averages. 
+- Specific changes are as follows with pre-analysis and refactored, respectfully.
+    - Math and reading scores by grade: 79.0;78.9 and 81.9;81.9
+    - Scores by school spending: no change
+    - Scores by school size: no change
+    - Scores by school type: no change
+
 ### The analysis of the school district's data shows that:
 - District Summary: 
 ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary.PNG)
@@ -36,21 +50,6 @@
 ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_school_type.PNG)
 - Scores based by average spending per student: 
 ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/scores_based_by_spending.PNG)
-
-
-### The analysis of the school district's data after inputing "NaN" for Thomas High School 9th grade shows that:
-- The district summary varied by slightly decreasing the percentage of the "Average Math Score"(.01).
-    - Initial Analysis
-    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary_1st_analysis.PNG)
-    - Refactored Analysis
-    ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary.PNG)
-
-- The school summary was only affected for Thomas High School, based on replacing the 9th grade scores. Replacing Thomas High School 9th grade scores brings the school's scores closer to the district averages. 
-- Specific changes are as follows with pre-analysis and refactored, respectfully.
-    - Math and reading scores by grade: 79.0;78.9 and 81.9;81.9
-    - Scores by school spending: no change
-    - Scores by school size: no change
-    - Scores by school type: no change
 
 ## Summary
 In summary after changing Thomas High School's 9th grade scores to NaN it brought the scores closer to the district averages. There was change in only the "Average Math Score"(.01).
