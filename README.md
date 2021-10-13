@@ -1,10 +1,10 @@
-# School_District_Analysis
+# School District Analysis
 
-## The purpse of this analyis is to help a school board analyze the district's reading and math scores, while giving a complete picture by grade, school, school type, and school budget per student.
+## The purpose of this analysis is to help a school board analyze the district's reading and math scores, while giving a complete picture by grade, school, school type, and school budget per student. Also we are helping the school board investigate academic dishonesty. 
 
 ## Project Overview: 
 1. Calculate and present a high-level snapshot of the district's key metrics.
-2. Calculate and present an overview of the key metrics for each shcool.
+2. Calculate and present an overview of the key metrics for each school.
 3. Determine the top 5 and bottom 5 performing schools based on overall passing percentage. 
 4. Calculate the average math and reading score by grade level and by school. 
 5. Find the school performance based on budget per student, school size, and type of school. 
@@ -14,10 +14,10 @@
 - Source of data: [student_complete.csv](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/students_complete.csv) and [schools_complete.csv](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/schools_complete.csv)
 - Software: Python 3.7.10, Conda 4.10.3, Jupyter Notebook 6.3.0, Visual Studio Code 1.60.2
 - Please see the [PyCitySchools_Challenge.ipynb](https://github.com/mthalken/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) to see the refactored code.  
-- You can also see the peliminary code [here](https://github.com/mthalken/School_District_Analysis/blob/main/PyCitySchools.ipynb).
+- You can also see the preliminary code [here](https://github.com/mthalken/School_District_Analysis/blob/main/PyCitySchools.ipynb).
 
 ## Results 
-### The analysis of the school district's data after inputing "NaN" for Thomas High School 9th grade shows that:
+### The analysis of the school district's data after inputting "NaN" for Thomas High School 9th grade shows that:
 - The district summary varied by slightly decreasing the percentage of the "Average Math Score"(.01).
     - Initial Analysis
     ![png](https://github.com/mthalken/School_District_Analysis/blob/main/Resources/district_summary_1st_analysis.PNG)
@@ -55,7 +55,7 @@
 In summary after changing Thomas High School's 9th grade scores to NaN it brought the scores closer to the district averages. There was change in only the "Average Math Score"(.01).
 
 Overall, the following can be considered:
-- Charter schools have an overall passing percentage of 90% compared to distict schools at 54%, with specific scores for math at 94% and 67% and reading scores at 97% and 81% respectively. 
+- Charter schools have an overall passing percentage of 90% compared to district schools at 54%, with specific scores for math at 94% and 67% and reading scores at 97% and 81% respectively. 
 - Also, the average spending per student in charter schools is less than the average spending for public schools yet there is no significate correlation in spending more equals higher passing percentage. 
 - School size for small(less than 1000) and medium(between 1000 and 2000) schools have a 90% and 91% overall passing percentage respectively compared to the large schools(2000 to 5000 students) at 58%. 
 
